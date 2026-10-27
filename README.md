@@ -3,6 +3,7 @@ Sistema de Gerenciamento de Biblioteca
 # 📚 CRUD de Biblioteca
 
 Meu primeiro projeto desenvolvido em **Python**.
+Sou um estudante do Curso técnico em informática do Senac e esse é meu projeto inicial de muitos ! 
 
 O sistema permite gerenciar os livros de uma biblioteca por meio das principais operações de um CRUD.
 
